@@ -5,7 +5,7 @@ insta auto post & comment to the posts using selenium with python
 
 👉Instagram Auto Insta Auto Story View + Like
 
-
+https://www.youtube.com/watch?v=Qxttk_H2kgw
 
 change 16 line & 17 with username & password 
 
