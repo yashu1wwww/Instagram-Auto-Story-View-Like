@@ -3,7 +3,7 @@ Instagram Auto Story View &amp; Like using selenium with python
 
 insta auto post & comment to the posts using selenium with python
 
-👉Instagram Auto Insta Auto Story View + Like
+👉Instagram Auto Insta Auto Story View + Like(for video reference its open only one story)
 
 https://www.youtube.com/watch?v=Qxttk_H2kgw
 
