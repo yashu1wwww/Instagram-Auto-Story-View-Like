@@ -1,15 +1,15 @@
 # Instagram-Auto-Story-View-Like
 Instagram Auto Story View &amp; Like using selenium with python
 
-insta auto post & comment to the posts using selenium with python
+Auto post and comment on Instagram using Selenium with Python.
 
-👉Instagram Auto Insta Auto Story View + Like(for video reference its open only one story)
+👉 Instagram Auto Insta Auto Story View + Like (for video reference, it only opens one story).
 
 https://www.youtube.com/watch?v=Qxttk_H2kgw
 
-change 15 line & 16 with username & password....
+Change line 15 and 16 with your username and password.
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter story.py or double click on story.py or you can rename the file and run
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in this folder. Open the command prompt in that particular folder and enter story.py, or double-click on story.py, or you can rename the file and run it.
 
 👉Note:-
 
