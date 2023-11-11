@@ -3,6 +3,8 @@ Instagram Auto Story View &amp; Like using selenium with python
 
 # Change line 15 and 16 with your username and password.
 
+# if having error then fork it..
+
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in this folder. 
 
 Open the command prompt in that particular folder and enter story.py, or double-click on story.py, or you can rename the file and run it.
