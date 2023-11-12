@@ -9,6 +9,14 @@ Download the latest version of Chrome Driver from https://chromedriver.chromium.
 
 Open the command prompt in that particular folder and enter story.py, or double-click on story.py, or you can rename the file and run it.
 
+# when instagram updated the some code changes if these not run means use below repos..
+
+https://github.com/auliaahmad165/Instagram-Auto-View-Story
+
+https://github.com/verssache/igviewstory
+
+https://github.com/cdw1p/IG-Auto-Story-View
+
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
